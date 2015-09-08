@@ -725,6 +725,16 @@ a:focus {
     right: 1rem;
 }
 
+.slide-corner-td {
+    position: absolute;
+    bottom: 1rem;
+    right: 1rem;
+}
+
 .lexicon {
     font-size: 23px;
+}
+
+.gulpfile {
+    max-height: 90%;
 }
